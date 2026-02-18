@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi, I'm Evan Xia
+
+- 🖥️ I've been coding in Python for over a year
+- 🔧 I'm learning C and C++ at the moment
+- 🍦 I’m looking to collaborate on open source tools and small software projects
+- 📣 You can connect with me on [LinkedIn](https://linkedin.com/in/evan-xia-b18a47296/) 
 
 <!--
 **Exia2075/Exia2075** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
